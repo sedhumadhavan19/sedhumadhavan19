@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Ruby on Rails.
 - 🌱 I’m currently learning advanced ruby on rails concepts.
 - 📫 How to reach me: sedhumadhavanit@gmail.com.
-- ⚡ Website: sedhu.in
+- ⚡ Portfolio: sedhu.in
 
 <!---
 sedhumadhavan19/sedhumadhavan19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
